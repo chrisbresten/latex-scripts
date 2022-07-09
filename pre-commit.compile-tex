@@ -1,0 +1,6 @@
+#!/bin/sh
+
+./build.sh
+git add *.pdf
+
+exit 0
